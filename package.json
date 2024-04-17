@@ -1,0 +1,23 @@
+{
+  "name": "ma15ra22-project_currency",
+  "version": "1.0.0",
+  "main": "app.js",
+  "type": "module",
+  "bin": {
+    "project_currency": "app.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": [],
+  "description": "",
+  "dependencies": {
+    "inquirer": "^9.2.17",
+    "ma15ra22-project_currency": "^1.0.0"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
